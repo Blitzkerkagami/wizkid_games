@@ -1,0 +1,7 @@
+{
+  "enableSync": true,
+  "projectUrl": "https://cnlrxsfmgrxgwcuefakt.supabase.co",
+  "publishableKey": "sb_publishable_WPFC-APMxVbPcc16c8N46Q_pOnbr8kN",
+  "syncIntervalSeconds": 30,
+  "batchSize": 100
+}

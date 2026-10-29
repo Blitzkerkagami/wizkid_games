@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a777dcf70443f4d9cf24d5fb65cb81, type: 3}
+  m_Name: ObjectMatching_Level_01
+  m_EditorClassIdentifier: 
+  bankId: objectmatching-l01
+  skill: 5
+  level: 1
+  competency: Matches identical objects across visual styles
+  questions:
+  - questionId: objectmatching-l01-q01
+    prompt: Find the same animal.
+    image: {fileID: 7935234321397735378, guid: d79a1c0e873313840bdd8436aebd0a9a, type: 3}
+    answers:
+    - Cow
+    - Bear
+    - Dog
+    - Duck
+    answerImages:
+    - {fileID: 6168083732550661486, guid: d8965966bc3563f42b037d6028cd6ca1, type: 3}
+    - {fileID: 7935234321397735378, guid: 283f476b1c026f045bd4ee0314314695, type: 3}
+    - {fileID: 1480917699468073914, guid: 7a196d816fea14544978db15c6ad8841, type: 3}
+    - {fileID: 8868729072188591806, guid: 8fbcdc80d193236419a875dae57dad8e, type: 3}
+    correctIndex: 1
+    difficulty: 1
+    competency: Matches identical objects across visual styles
+  - questionId: objectmatching-l01-q02
+    prompt: Find the same animal.
+    image: {fileID: 6168083732550661486, guid: ec7c18793a041304da5320b037392ecb, type: 3}
+    answers:
+    - Dog
+    - Duck
+    - Cow
+    - Frog
+    answerImages:
+    - {fileID: 1480917699468073914, guid: 7a196d816fea14544978db15c6ad8841, type: 3}
+    - {fileID: 8868729072188591806, guid: 8fbcdc80d193236419a875dae57dad8e, type: 3}
+    - {fileID: 6168083732550661486, guid: d8965966bc3563f42b037d6028cd6ca1, type: 3}
+    - {fileID: 5158404753353345565, guid: b0a2e27deedc799459e20b1a4710577f, type: 3}
+    correctIndex: 2
+    difficulty: 1
+    competency: Matches identical objects across visual styles
+  - questionId: objectmatching-l01-q03
+    prompt: Find the same animal.
+    image: {fileID: 1480917699468073914, guid: b335b4df3d44a984a967f06d5ba155d4, type: 3}
+    answers:
+    - Duck
+    - Frog
+    - Bear
+    - Dog
+    answerImages:
+    - {fileID: 8868729072188591806, guid: 8fbcdc80d193236419a875dae57dad8e, type: 3}
+    - {fileID: 5158404753353345565, guid: b0a2e27deedc799459e20b1a4710577f, type: 3}
+    - {fileID: 7935234321397735378, guid: 283f476b1c026f045bd4ee0314314695, type: 3}
+    - {fileID: 1480917699468073914, guid: 7a196d816fea14544978db15c6ad8841, type: 3}
+    correctIndex: 3
+    difficulty: 1
+    competency: Matches identical objects across visual styles
+  - questionId: objectmatching-l01-q04
+    prompt: Find the same animal.
+    image: {fileID: 8868729072188591806, guid: 50b8e6d55b9344c46b8bacbc1b6b30bf, type: 3}
+    answers:
+    - Duck
+    - Frog
+    - Bear
+    - Cow
+    answerImages:
+    - {fileID: 8868729072188591806, guid: 8fbcdc80d193236419a875dae57dad8e, type: 3}
+    - {fileID: 5158404753353345565, guid: b0a2e27deedc799459e20b1a4710577f, type: 3}
+    - {fileID: 7935234321397735378, guid: 283f476b1c026f045bd4ee0314314695, type: 3}
+    - {fileID: 6168083732550661486, guid: d8965966bc3563f42b037d6028cd6ca1, type: 3}
+    correctIndex: 0
+    difficulty: 1
+    competency: Matches identical objects across visual styles
+  - questionId: objectmatching-l01-q05
+    prompt: Find the same animal.
+    image: {fileID: 5158404753353345565, guid: 27be6ee560d0f8e48bbf23880c1d8206, type: 3}
+    answers:
+    - Bear
+    - Frog
+    - Cow
+    - Dog
+    answerImages:
+    - {fileID: 7935234321397735378, guid: 283f476b1c026f045bd4ee0314314695, type: 3}
+    - {fileID: 5158404753353345565, guid: b0a2e27deedc799459e20b1a4710577f, type: 3}
+    - {fileID: 6168083732550661486, guid: d8965966bc3563f42b037d6028cd6ca1, type: 3}
+    - {fileID: 1480917699468073914, guid: 7a196d816fea14544978db15c6ad8841, type: 3}
+    correctIndex: 1
+    difficulty: 1
+    competency: Matches identical objects across visual styles

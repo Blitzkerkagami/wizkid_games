@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a777dcf70443f4d9cf24d5fb65cb81, type: 3}
+  m_Name: Colors_Level_04
+  m_EditorClassIdentifier: 
+  bankId: colors-l04
+  skill: 2
+  level: 4
+  competency: Recognizes and names colors
+  questions:
+  - questionId: colors-l04-q01
+    prompt: What color is this?
+    image: {fileID: 21300000, guid: 16219c66d5b8b494ab110be41b1b3558, type: 3}
+    answers:
+    - Indigo
+    - Red
+    - Green
+    - Pink
+    correctIndex: 0
+    difficulty: 4
+    competency: Recognizes and names colors
+  - questionId: colors-l04-q02
+    prompt: What color is this?
+    image: {fileID: 21300000, guid: e9e1aad47769a104eb5d0afd860fb937, type: 3}
+    answers:
+    - Purple
+    - Pink
+    - Red
+    - Gray
+    correctIndex: 0
+    difficulty: 4
+    competency: Recognizes and names colors
+  - questionId: colors-l04-q03
+    prompt: What color is this?
+    image: {fileID: 21300000, guid: f3c0c9a057e37404986dd4e509a45089, type: 3}
+    answers:
+    - White
+    - Blue
+    - Yellow
+    - Black
+    correctIndex: 1
+    difficulty: 4
+    competency: Recognizes and names colors
+  - questionId: colors-l04-q04
+    prompt: What color is this?
+    image: {fileID: 21300000, guid: 38d1418ecead5fa478fc03643bc28923, type: 3}
+    answers:
+    - Green
+    - Brown
+    - Violet
+    - Red
+    correctIndex: 2
+    difficulty: 4
+    competency: Recognizes and names colors
+  - questionId: colors-l04-q05
+    prompt: What color is this?
+    image: {fileID: 21300000, guid: 037fd505ed4130246b9be57bc2bdd553, type: 3}
+    answers:
+    - Black
+    - White
+    - Grey
+    - Pink
+    correctIndex: 3
+    difficulty: 4
+    competency: Recognizes and names colors

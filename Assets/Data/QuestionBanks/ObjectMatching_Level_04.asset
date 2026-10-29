@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a777dcf70443f4d9cf24d5fb65cb81, type: 3}
+  m_Name: ObjectMatching_Level_04
+  m_EditorClassIdentifier: 
+  bankId: objectmatching-l04
+  skill: 5
+  level: 4
+  competency: Matches identical objects across visual styles
+  questions:
+  - questionId: objectmatching-l04-q01
+    prompt: Find the same animal.
+    image: {fileID: 6507982653818034734, guid: 4cd97ce572f26354b887539c8b5c9f62, type: 3}
+    answers:
+    - Crocodile
+    - Hippo
+    - Rhino
+    - Snake
+    answerImages:
+    - {fileID: 6507982653818034734, guid: e108d6bddff5b654aa47c87250b366d0, type: 3}
+    - {fileID: -2257292171129640764, guid: 8467cff39b2602c48821129191e90dd9, type: 3}
+    - {fileID: 2822962250050549408, guid: 61bd7f4d427c40d40a59defc2180f3f2, type: 3}
+    - {fileID: -8688392260014441854, guid: ca802a0bd171a9141b768f99e4a47aaa, type: 3}
+    correctIndex: 0
+    difficulty: 4
+    competency: Matches identical objects across visual styles
+  - questionId: objectmatching-l04-q02
+    prompt: Find the same animal.
+    image: {fileID: -2257292171129640764, guid: e5b3f11cddf1d0b4292efd1b0836782b, type: 3}
+    answers:
+    - Rhino
+    - Hippo
+    - Snake
+    - Zebra
+    answerImages:
+    - {fileID: 2822962250050549408, guid: 61bd7f4d427c40d40a59defc2180f3f2, type: 3}
+    - {fileID: -2257292171129640764, guid: 8467cff39b2602c48821129191e90dd9, type: 3}
+    - {fileID: -8688392260014441854, guid: ca802a0bd171a9141b768f99e4a47aaa, type: 3}
+    - {fileID: 2412525675868892666, guid: 608707e9da2270d40a90448a4871ff47, type: 3}
+    correctIndex: 1
+    difficulty: 4
+    competency: Matches identical objects across visual styles
+  - questionId: objectmatching-l04-q03
+    prompt: Find the same animal.
+    image: {fileID: 2822962250050549408, guid: 0afb7f0c161346f4ab846f180a3ae65d, type: 3}
+    answers:
+    - Snake
+    - Zebra
+    - Rhino
+    - Crocodile
+    answerImages:
+    - {fileID: -8688392260014441854, guid: ca802a0bd171a9141b768f99e4a47aaa, type: 3}
+    - {fileID: 2412525675868892666, guid: 608707e9da2270d40a90448a4871ff47, type: 3}
+    - {fileID: 2822962250050549408, guid: 61bd7f4d427c40d40a59defc2180f3f2, type: 3}
+    - {fileID: 6507982653818034734, guid: e108d6bddff5b654aa47c87250b366d0, type: 3}
+    correctIndex: 2
+    difficulty: 4
+    competency: Matches identical objects across visual styles
+  - questionId: objectmatching-l04-q04
+    prompt: Find the same animal.
+    image: {fileID: -8688392260014441854, guid: c744f39aaf6310d4c9308bd460781f18, type: 3}
+    answers:
+    - Zebra
+    - Crocodile
+    - Hippo
+    - Snake
+    answerImages:
+    - {fileID: 2412525675868892666, guid: 608707e9da2270d40a90448a4871ff47, type: 3}
+    - {fileID: 6507982653818034734, guid: e108d6bddff5b654aa47c87250b366d0, type: 3}
+    - {fileID: -2257292171129640764, guid: 8467cff39b2602c48821129191e90dd9, type: 3}
+    - {fileID: -8688392260014441854, guid: ca802a0bd171a9141b768f99e4a47aaa, type: 3}
+    correctIndex: 3
+    difficulty: 4
+    competency: Matches identical objects across visual styles
+  - questionId: objectmatching-l04-q05
+    prompt: Find the same animal.
+    image: {fileID: 2412525675868892666, guid: 558c16174de7fc24ebba9a4ece60f1ca, type: 3}
+    answers:
+    - Zebra
+    - Crocodile
+    - Hippo
+    - Rhino
+    answerImages:
+    - {fileID: 2412525675868892666, guid: 608707e9da2270d40a90448a4871ff47, type: 3}
+    - {fileID: 6507982653818034734, guid: e108d6bddff5b654aa47c87250b366d0, type: 3}
+    - {fileID: -2257292171129640764, guid: 8467cff39b2602c48821129191e90dd9, type: 3}
+    - {fileID: 2822962250050549408, guid: 61bd7f4d427c40d40a59defc2180f3f2, type: 3}
+    correctIndex: 0
+    difficulty: 4
+    competency: Matches identical objects across visual styles

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a777dcf70443f4d9cf24d5fb65cb81, type: 3}
+  m_Name: Counting_Level_05
+  m_EditorClassIdentifier: 
+  bankId: counting-l05
+  skill: 0
+  level: 5
+  competency: Counts and identifies quantities
+  questions:
+  - questionId: counting-l05-q01
+    prompt: How many Mermaids are there?
+    image: {fileID: 21300000, guid: d7e3d6240b8910144bcf83dfa21c4693, type: 3}
+    answers:
+    - 2
+    - 5
+    - 7
+    - 3
+    correctIndex: 0
+    difficulty: 5
+    competency: Counts and identifies quantities
+  - questionId: counting-l05-q02
+    prompt: How many Wizards are there?
+    image: {fileID: 21300000, guid: 66f78bcf63e9d104d8b3e0107bbe593d, type: 3}
+    answers:
+    - 5
+    - 2
+    - 7
+    - 4
+    correctIndex: 1
+    difficulty: 5
+    competency: Counts and identifies quantities
+  - questionId: counting-l05-q03
+    prompt: How many Apples are there?
+    image: {fileID: 21300000, guid: e4423913334cc6c49ac8cbc213b62c52, type: 3}
+    answers:
+    - 3
+    - 2
+    - 5
+    - 6
+    correctIndex: 1
+    difficulty: 5
+    competency: Counts and identifies quantities
+  - questionId: counting-l05-q04
+    prompt: How many Apples are there?
+    image: {fileID: 21300000, guid: dab59e106ac6e2543b63f5116ea2137c, type: 3}
+    answers:
+    - 1
+    - 2
+    - 6
+    - 4
+    correctIndex: 3
+    difficulty: 5
+    competency: Counts and identifies quantities
+  - questionId: counting-l05-q05
+    prompt: How many Foxes are there?
+    image: {fileID: 21300000, guid: 40e9f83dc6ab9264e83f08c17c1c98da, type: 3}
+    answers:
+    - 7
+    - 1
+    - 3
+    - 8
+    correctIndex: 2
+    difficulty: 5
+    competency: Counts and identifies quantities

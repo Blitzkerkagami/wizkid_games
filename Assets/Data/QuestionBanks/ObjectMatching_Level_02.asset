@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a777dcf70443f4d9cf24d5fb65cb81, type: 3}
+  m_Name: ObjectMatching_Level_02
+  m_EditorClassIdentifier: 
+  bankId: objectmatching-l02
+  skill: 5
+  level: 2
+  competency: Matches identical objects across visual styles
+  questions:
+  - questionId: objectmatching-l02-q01
+    prompt: Find the same animal.
+    image: {fileID: -8283620988547500454, guid: 58ae7872f06898e48ae59356c9cfa06f, type: 3}
+    answers:
+    - Giraffe
+    - Monkey
+    - Elephant
+    - Panda
+    answerImages:
+    - {fileID: 5604796196903453309, guid: 53f91a632d526a94298afd1883c2033a, type: 3}
+    - {fileID: -4798825762170945512, guid: a9c8f60780ab5bf489b71f396a2c36db, type: 3}
+    - {fileID: -8283620988547500454, guid: a763465c75563d5439eace4d8f5a2262, type: 3}
+    - {fileID: -3385415037828575978, guid: fe4c5752b3d3639479220165cb1e3c9a, type: 3}
+    correctIndex: 2
+    difficulty: 2
+    competency: Matches identical objects across visual styles
+  - questionId: objectmatching-l02-q02
+    prompt: Find the same animal.
+    image: {fileID: 5604796196903453309, guid: 6ca8fe81721a91841a138a523857d04e, type: 3}
+    answers:
+    - Monkey
+    - Panda
+    - Rabbit
+    - Giraffe
+    answerImages:
+    - {fileID: -4798825762170945512, guid: a9c8f60780ab5bf489b71f396a2c36db, type: 3}
+    - {fileID: -3385415037828575978, guid: fe4c5752b3d3639479220165cb1e3c9a, type: 3}
+    - {fileID: -5362292703166988329, guid: 868d13ecc729f344291cf200e2c759ae, type: 3}
+    - {fileID: 5604796196903453309, guid: 53f91a632d526a94298afd1883c2033a, type: 3}
+    correctIndex: 3
+    difficulty: 2
+    competency: Matches identical objects across visual styles
+  - questionId: objectmatching-l02-q03
+    prompt: Find the same animal.
+    image: {fileID: -4798825762170945512, guid: 6802d239a59024a408bf8bcaa7c9c37e, type: 3}
+    answers:
+    - Monkey
+    - Panda
+    - Rabbit
+    - Elephant
+    answerImages:
+    - {fileID: -4798825762170945512, guid: a9c8f60780ab5bf489b71f396a2c36db, type: 3}
+    - {fileID: -3385415037828575978, guid: fe4c5752b3d3639479220165cb1e3c9a, type: 3}
+    - {fileID: -5362292703166988329, guid: 868d13ecc729f344291cf200e2c759ae, type: 3}
+    - {fileID: -8283620988547500454, guid: a763465c75563d5439eace4d8f5a2262, type: 3}
+    correctIndex: 0
+    difficulty: 2
+    competency: Matches identical objects across visual styles
+  - questionId: objectmatching-l02-q04
+    prompt: Find the same animal.
+    image: {fileID: -3385415037828575978, guid: c79a103928c95684597933da03b6ed7f, type: 3}
+    answers:
+    - Rabbit
+    - Panda
+    - Elephant
+    - Giraffe
+    answerImages:
+    - {fileID: -5362292703166988329, guid: 868d13ecc729f344291cf200e2c759ae, type: 3}
+    - {fileID: -3385415037828575978, guid: fe4c5752b3d3639479220165cb1e3c9a, type: 3}
+    - {fileID: -8283620988547500454, guid: a763465c75563d5439eace4d8f5a2262, type: 3}
+    - {fileID: 5604796196903453309, guid: 53f91a632d526a94298afd1883c2033a, type: 3}
+    correctIndex: 1
+    difficulty: 2
+    competency: Matches identical objects across visual styles
+  - questionId: objectmatching-l02-q05
+    prompt: Find the same animal.
+    image: {fileID: -5362292703166988329, guid: 13f274fc39294ba4ea9f7b97f54939f1, type: 3}
+    answers:
+    - Elephant
+    - Giraffe
+    - Rabbit
+    - Monkey
+    answerImages:
+    - {fileID: -8283620988547500454, guid: a763465c75563d5439eace4d8f5a2262, type: 3}
+    - {fileID: 5604796196903453309, guid: 53f91a632d526a94298afd1883c2033a, type: 3}
+    - {fileID: -5362292703166988329, guid: 868d13ecc729f344291cf200e2c759ae, type: 3}
+    - {fileID: -4798825762170945512, guid: a9c8f60780ab5bf489b71f396a2c36db, type: 3}
+    correctIndex: 2
+    difficulty: 2
+    competency: Matches identical objects across visual styles

@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a777dcf70443f4d9cf24d5fb65cb81, type: 3}
+  m_Name: Patterns_Level_05
+  m_EditorClassIdentifier: 
+  bankId: patterns-l05
+  skill: 4
+  level: 5
+  competency: Identifies and completes visual, number, and symbol patterns
+  questions:
+  - questionId: patterns-l05-q01
+    prompt: 1, 2, 4, 1, 2, 4, ___
+    image: {fileID: 0}
+    answers:
+    - 1
+    - 2
+    - 3
+    - 4
+    answerImages:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    correctIndex: 0
+    difficulty: 5
+    competency: Identifies and completes visual, number, and symbol patterns
+  - questionId: patterns-l05-q02
+    prompt: A, B, C, D, A, B, C, ___
+    image: {fileID: 0}
+    answers:
+    - A
+    - B
+    - C
+    - D
+    answerImages:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    correctIndex: 3
+    difficulty: 5
+    competency: Identifies and completes visual, number, and symbol patterns
+  - questionId: patterns-l05-q03
+    prompt: 2, 5, 8, 11, ___
+    image: {fileID: 0}
+    answers:
+    - 12
+    - 13
+    - 14
+    - 15
+    answerImages:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    correctIndex: 2
+    difficulty: 5
+    competency: Identifies and completes visual, number, and symbol patterns
+  - questionId: patterns-l05-q04
+    prompt: 10, 8, 6, 4, ___
+    image: {fileID: 0}
+    answers:
+    - 1
+    - 2
+    - 3
+    - 4
+    answerImages:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    correctIndex: 1
+    difficulty: 5
+    competency: Identifies and completes visual, number, and symbol patterns
+  - questionId: patterns-l05-q05
+    prompt: Circle, Triangle, Square, Star, Circle, Triangle, Square, ___
+    image: {fileID: 0}
+    answers:
+    - Circle
+    - Triangle
+    - Square
+    - Star
+    answerImages:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    correctIndex: 3
+    difficulty: 5
+    competency: Identifies and completes visual, number, and symbol patterns
